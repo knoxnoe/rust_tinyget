@@ -102,6 +102,7 @@
 //! # Ok(()) }
 //! ```
 //!
+//!
 //! ## Query Parameters
 //!
 //! To add query parameters to your request, use `with_query("key", "value")` before
